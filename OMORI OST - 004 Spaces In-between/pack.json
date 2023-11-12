@@ -1,0 +1,10 @@
+{
+  "name": "Omori BGM Ost Spaces In-Between",
+  "description": "Add OMORI OST - 004 Spaces In-between (By OMOCAT) as a background song.",
+  "author": "FlauiPuk",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}   
